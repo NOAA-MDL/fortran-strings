@@ -24,8 +24,7 @@ The function names are prefixed with ``str_``.  The following is a list of avail
 
 All functions return a deferred-length, allocatable character scalar (``character(len=:), allocatable``) with the exception of **``str_count``** which returns an integer and **``str_test``** which returns a logical.
 
-For more detailed documentation, see https://eengl.github.io/fortran-strings/
-
+For more detailed documentation, see https://noaa-mdl.github.io/fortran-strings/
 ## Requirements
 
 * CMake v3.15+
